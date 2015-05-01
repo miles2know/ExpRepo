@@ -1,0 +1,17 @@
+{
+    "contents" : "expDat <- rnorm(1000)\nexpDat2 <- rnorm(1000,3,.2)\n\nplot(expDat,expDat2)\n",
+    "created" : 1430443998618.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3895964782",
+    "id" : "38776A25",
+    "lastKnownWriteTime" : 1430444245,
+    "path" : "C:/Users/jrudokas/Desktop/Notes - Data Experiments/Stat Learning/GitProjects/R2Git/script.R",
+    "project_path" : "script.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}
